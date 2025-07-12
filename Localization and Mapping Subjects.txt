@@ -1,0 +1,15 @@
+Differential Drive Odometry
+
+Kalman Filtering for Sensor Fusion
+
+Sensor Fusion: IMU + Odometry + Encoder
+
+SLAM (Simultaneous Localization and Mapping)
+
+Path Planning: A, Dijkstra, RRT*
+
+Localization: Monte Carlo Localization (MCL), AMCL
+
+Mapping: Occupancy Grid Mapping
+
+Trajectory Tracking: Pure Pursuit, Stanley Controller
